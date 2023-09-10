@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.*;
 import java.util.Scanner;
-public class Subarray {
+public class Subarrays {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
         int size = sc.nextInt();
@@ -24,7 +24,7 @@ public class Subarray {
             lst.add(arr[i]);
 
         }
-            return null;
+        return null;
     }
     public static List<List<Integer>> findSubarrays(int[] arr, int start,int count, List<Integer> current,List<List<Integer>> subarrays) {
         // Create a list to store subarrays
@@ -56,8 +56,3 @@ public class Subarray {
     }
 
 }
-
-
-
-
-
