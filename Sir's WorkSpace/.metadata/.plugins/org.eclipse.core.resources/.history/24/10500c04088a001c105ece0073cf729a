@@ -1,0 +1,15 @@
+package aditya;
+import java.util.Scanner;
+public class VidhyardiDemo {
+public static void main(String[] args)
+{
+	Scanner sc=new Scanner(System.in);
+	Vidhyardi v=new Vidhyardi();
+	double w,r;
+	while(v.setrad(sc.nextDouble(),sc.nextDouble())==false)
+			{
+		v.Vidhyardi();
+			}
+	System.out.println(v.findArea());
+}
+}

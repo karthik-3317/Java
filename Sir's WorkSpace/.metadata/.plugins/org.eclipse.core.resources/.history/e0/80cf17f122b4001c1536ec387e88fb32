@@ -1,0 +1,14 @@
+package jframes;
+import javax.swing.*;
+public class Button {
+	public static void main(String [] args)
+	{
+		JFrame frame=new JFrame();
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setLayout(null);
+		frame.setVisible(true);
+		JButton btn=new JButton();
+		btn.setBounds(100,100,100,50);
+		frame.add(btn);
+	}
+}

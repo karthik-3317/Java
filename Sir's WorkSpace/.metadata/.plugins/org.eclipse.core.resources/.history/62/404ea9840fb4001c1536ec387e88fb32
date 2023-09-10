@@ -1,0 +1,23 @@
+package jframes;
+import java.awt.Color;
+import java.awt.Container;
+
+import javax.swing.*;
+public class Page {
+	public static void main(String [] args)
+	{
+		JFrame frame=new JFrame();
+		frame.setVisible(true);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setBounds(100,200,700,500);
+		frame.setTitle("JAVA FRAMES");
+		frame.setLayout(null);
+		Container c=frame.getContentPane();
+		c.setBackground(Color.ORANGE);
+		JLabel label=new JLabel();
+		label.setText("aditya");
+		label.setBounds(100,150,100,60);
+		frame.add(label);
+		
+	}
+}

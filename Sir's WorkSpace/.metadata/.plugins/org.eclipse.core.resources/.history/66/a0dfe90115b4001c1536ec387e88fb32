@@ -1,0 +1,24 @@
+package jframes;
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Font;
+
+import javax.swing.*;
+public class Page {
+	public static void main(String [] args)
+	{
+		JFrame frame=new JFrame();
+		JTextField field =new JTextField();
+		frame.setBounds(100, 100, 1000, 500);
+		frame.setLayout(null);
+		frame.setVisible(true);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		Container c=frame.getContentPane();
+		field.setText("enter something ");
+		Font font=new Font("Arial",Font.ITALIC,25);
+		field.setFont(font);
+		field.setForeground(Color.GREEN);
+		field.setBackground(Color.BLACK);
+		frame.add(field);
+	}
+}

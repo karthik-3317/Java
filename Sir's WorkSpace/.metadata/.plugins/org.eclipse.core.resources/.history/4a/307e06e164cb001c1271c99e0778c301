@@ -1,0 +1,16 @@
+ package stringTokinser;
+import java.util.StringTokenizer;
+public class Start {
+	String text;
+	public static void main(String[]args)
+	{
+		Start st=new Start();
+		st.text="my name is karthik venkat sudha sai pavan aditya";
+		StringTokenizer stt=new StringTokenizer(st.text," ");
+		System.out.println(stt.countTokens());
+		while(stt.hasMoreElements())
+		{
+			System.out.println(stt.nextToken());
+		}
+	}
+}
