@@ -8,7 +8,6 @@ public class Subarray {
         int arr[] = new int[size];
         for(int i=0;i<size;i++) arr[i] = sc.nextInt();
         List<Integer> lst = new ArrayList<>();
-        System.out.println();
         List<List<Integer>> subarrays = new ArrayList<>();
         System.out.println(findSubarrays(arr,0,0,lst,subarrays));
     }
