@@ -17,7 +17,7 @@ public class SubarrayLIsts {
     public static List<List<Integer>> callme(int[]arr,int currentIndex,List<Integer> currArray,List<List<Integer>> subarrays)
     {
         if(currentIndex == arr.length){
-            return subarrays;
+            return null;
         }
         for(int i=currentIndex;i<arr.length;i++)
         {
