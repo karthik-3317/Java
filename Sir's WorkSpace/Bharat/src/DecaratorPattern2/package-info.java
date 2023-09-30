@@ -1,1 +1,0 @@
-package DecaratorPattern2;
