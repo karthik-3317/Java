@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6974adfc-e728-4922-a008-6e12bf329b64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Arrays WorkSpace/FrequencyBasedOnK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays WorkSpace/MaxWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays WorkSpace/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays WorkSpace/ReorderAccIndexArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays WorkSpace/SmallestMissing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays WorkSpace/SwapPositiveAndNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays WorkSpace/UniqueElementsInWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise WorkSpace/MapValueFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practise WorkSpace/MinimumWindowSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CousinsOfTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintKLevelDow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays WorkSpace/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays WorkSpace/out/production/Arrays WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays WorkSpace/out/production/Arrays WorkSpace/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strings WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings WorkSpace/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6974adfc-e728-4922-a008-6e12bf329b64" name="Changes" comment="Started Java With Trees">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColoringABorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ColoringABorder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "karthik-3317"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="788c3fbf-219d-46dc-a855-59c331691897" />
+        <option name="url" value="https://github.com/karthik-3317/Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,14 +48,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Karthik Main/Output/Java/Trees WorkSpace&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Karthik Main/Output/Java/Trees WorkSpace"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696050751888</updated>
     </task>
+    <task id="LOCAL-00001" summary="Started Java With Trees">
+      <option name="closed" value="true" />
+      <created>1702515049325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702515049325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started Java With Trees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started Java With Trees" />
   </component>
 </project>
