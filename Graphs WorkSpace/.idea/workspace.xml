@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1ee9d6-ba69-4c96-bad8-235242c3e009" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdjacencyMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BfsGraphTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BfsTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BfsTraversalEight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BfsTraversalEightLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BfsTraversalLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopologicalSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Trees WorkSpace/out/production/Trees WorkSpace/.idea/Trees WorkSpace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FloyWarshallPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FloydWarshall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Trees WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Trees WorkSpace/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Trees WorkSpace/ColoringABorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Trees WorkSpace/ColoringABorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practise WorkSpace/LongestPalindromic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practise WorkSpace/LongestPalindromic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
