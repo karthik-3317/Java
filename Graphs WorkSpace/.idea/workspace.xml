@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff1ee9d6-ba69-4c96-bad8-235242c3e009" name="Changes" comment="FloyWarshallPath Coded">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FloyWarshallPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/FloyWarshallPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeForces WorkSpace/TreeOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumSpanningTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces WorkSpace/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces WorkSpace/LiknedList.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces WorkSpace/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practise WorkSpace/Arrays/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practise WorkSpace/Arrays/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practise WorkSpace/FrequencyOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practise WorkSpace/FrequencyOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "karthik-3317"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karthik-3317&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>

@@ -1,7 +1,4 @@
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.TreeMap;
+import java.util.*;
 
 public class FrequencyOrder {
     public static Scanner sc = new Scanner(System.in);
@@ -13,6 +10,7 @@ public class FrequencyOrder {
         for(int i=0;i<size;i++) arr[i] = sc.nextInt();
 
         Map<Integer,Integer> mp = new LinkedHashMap<>();
+
 
         for(int num:arr){
            mp.put(num, 1 + mp.getOrDefault(num,0));
