@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff1ee9d6-ba69-4c96-bad8-235242c3e009" name="Changes" comment="FloyWarshallPath Coded">
-      <change afterPath="$PROJECT_DIR$/../CodeForces WorkSpace/TreeOfLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumSpanningTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeChef WorkSpace/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeForces WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces WorkSpace/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeForces WorkSpace/LiknedList.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeForces WorkSpace/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practise WorkSpace/Arrays/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practise WorkSpace/Arrays/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practise WorkSpace/FrequencyOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practise WorkSpace/FrequencyOrder.java" afterDir="false" />
+    <list default="true" id="ff1ee9d6-ba69-4c96-bad8-235242c3e009" name="Changes" comment="Done With Minimum Spanning Tree">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Graphs WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Graphs WorkSpace/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +37,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MinimumSpanningTree.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -63,7 +57,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Karthik Main/Output/Java/Trees WorkSpace&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Karthik Main/Output/Java/Trees WorkSpace&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704440549525</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Done With Minimum Spanning Tree">
+      <option name="closed" value="true" />
+      <created>1704535261166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704535261166</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FloyWarshallPath Coded" />
-    <option name="LAST_COMMIT_MESSAGE" value="FloyWarshallPath Coded" />
+    <MESSAGE value="Done With Minimum Spanning Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done With Minimum Spanning Tree" />
   </component>
 </project>
