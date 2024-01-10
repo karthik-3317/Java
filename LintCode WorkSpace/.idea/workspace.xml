@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96c1c6a0-445f-446c-b3d9-a7e0431b9e6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ContinousSubarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiftingWeights.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode WorkSpace/out/production/Trees WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/out/production/Trees WorkSpace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +25,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2aeCI5PFpMpwqsAp2MV0jfuh5Pd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Karthik Main/Output/Java/LintCode WorkSpace"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Karthik Main/Output/Java/LintCode WorkSpace&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,5 +51,16 @@
       <updated>1704669574464</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LiftingWeights.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
