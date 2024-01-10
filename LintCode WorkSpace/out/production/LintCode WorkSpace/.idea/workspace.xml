@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96c1c6a0-445f-446c-b3d9-a7e0431b9e6c" name="Changes" comment="Today class 10-01-2023">
-      <change afterPath="$PROJECT_DIR$/MinimumPathSum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="96c1c6a0-445f-446c-b3d9-a7e0431b9e6c" name="Changes" comment="Today class 10-01-2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,5 +67,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Today class 10-01-2023" />
     <option name="LAST_COMMIT_MESSAGE" value="Today class 10-01-2023" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LiftingWeights.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
