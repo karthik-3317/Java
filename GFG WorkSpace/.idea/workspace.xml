@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96c1c6a0-445f-446c-b3d9-a7e0431b9e6c" name="Changes" comment="Closet Sum Problem">
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/Graphs WorkSpace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/AdjacencyMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/BfsGraphTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/BfsTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/BfsTraversalEight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/BfsTraversalEightLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/BfsTraversalLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/BoilerPlate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/FloyWarshallPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/FloydWarshall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/MinimumSpanningTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/TopologicalSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/Graphs WorkSpace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/AdjacencyMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/BfsGraphTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/BfsTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/BfsTraversalEight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/BfsTraversalEightLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/BfsTraversalLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/BoilerPlate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/FloyWarshallPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/FloydWarshall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/MinimumSpanningTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/Pos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/PosLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/TopologicalSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs WorkSpace/out/production/Graphs WorkSpace/UFDS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/LintCode WorkSpace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/BeingZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/ClimbStairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/ClosetSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/ContinousSubarraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/GrandParentOfNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/LiftingWeights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/MinimumPathSum2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/ParentOfNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/TollGates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/UnBoundedKnapsack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/ZeroOneKnapSack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/.idea/LintCode WorkSpace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/ContinousSubarraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/LiftingWeights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/MinimumPathSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/ParentOfNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LintCode WorkSpace/out/production/LintCode WorkSpace/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practise WorkSpace/.idea/modules.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karthik-3317&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="788c3fbf-219d-46dc-a855-59c331691897" />
+        <option name="url" value="https://github.com/karthik-3317/Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2aeCI5PFpMpwqsAp2MV0jfuh5Pd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Karthik Main/Output/Java/Practise WorkSpace",
+    "settings.editor.selected.configurable": "Errors"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96c1c6a0-445f-446c-b3d9-a7e0431b9e6c" name="Changes" comment="" />
+      <created>1704669574464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704669574464</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Today class 10-01-2023">
+      <option name="closed" value="true" />
+      <created>1704856009012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704856009012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Today class 10-01-2023">
+      <option name="closed" value="true" />
+      <created>1704856057457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704856057457</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Today's work on 10-1-2024 (2)">
+      <option name="closed" value="true" />
+      <created>1704905245162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704905245162</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finding Parent And GrandParent Of a Node">
+      <option name="closed" value="true" />
+      <created>1704939242507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704939242507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed 0/1 Knapsack and UnBounded Knapsack">
+      <option name="closed" value="true" />
+      <created>1706008792641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706008792641</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Closet Sum Problem">
+      <option name="closed" value="true" />
+      <created>1706596635341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706596635341</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Today class 10-01-2023" />
+    <MESSAGE value="Today's work on 10-1-2024 (2)" />
+    <MESSAGE value="Finding Parent And GrandParent Of a Node" />
+    <MESSAGE value="Completed 0/1 Knapsack and UnBounded Knapsack" />
+    <MESSAGE value="Closet Sum Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Closet Sum Problem" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
