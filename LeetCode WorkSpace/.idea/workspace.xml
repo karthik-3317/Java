@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6974adfc-e728-4922-a008-6e12bf329b64" name="Changes" comment="Did FindThePrefixCommonArrayOfTwoArrays&#10;And ContinousSubarraySum">
+    <list default="true" id="6974adfc-e728-4922-a008-6e12bf329b64" name="Changes" comment="DSU Graph Union">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Trees WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trees WorkSpace/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,12 +89,29 @@
       <option name="project" value="LOCAL" />
       <updated>1704673324445</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DSU Graph Union">
+      <option name="closed" value="true" />
+      <created>1709043111533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709043111533</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DSU Graph Union">
+      <option name="closed" value="true" />
+      <created>1709043123973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709043123973</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started Java With Trees" />
     <MESSAGE value="Did FindThePrefixCommonArrayOfTwoArrays&#10;And ContinousSubarraySum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did FindThePrefixCommonArrayOfTwoArrays&#10;And ContinousSubarraySum" />
+    <MESSAGE value="DSU Graph Union" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSU Graph Union" />
   </component>
 </project>
