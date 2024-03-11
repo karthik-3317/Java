@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6974adfc-e728-4922-a008-6e12bf329b64" name="Changes" comment="DSU Graph Union">
+      <change afterPath="$PROJECT_DIR$/CustomSortStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrieProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG WorkSpace/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Trees WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Trees WorkSpace/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

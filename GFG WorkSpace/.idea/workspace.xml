@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96c1c6a0-445f-446c-b3d9-a7e0431b9e6c" name="Changes" comment="Closet Sum Problem">
-      <change afterPath="$PROJECT_DIR$/../Practice WorkSpace/CoinsChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice WorkSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice WorkSpace/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/TrieProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode WorkSpace/out/production/Trees WorkSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode WorkSpace/out/production/Trees WorkSpace/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
